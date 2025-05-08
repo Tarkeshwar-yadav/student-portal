@@ -32,4 +32,4 @@ A PHP-based Student Portal Website that supports role-based authentication for A
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-portal-php.git
+   git clone https://github.com/Tarkeshwar-yadav/student-portal.git
